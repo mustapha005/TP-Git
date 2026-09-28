@@ -2,3 +2,4 @@ Pourquoi les développeurs aiment Git ?
 Parce qu'ils peuvent toujours revenir en arrière.
 TEST TEST TEST 111
 Parce qu'il y a trop de bugs et qu'on ne peut pas faire de git checkout ! agrigah
+conflit2 aya agrigah
