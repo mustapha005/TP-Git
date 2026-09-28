@@ -1,0 +1,2 @@
+Pourquoi les développeurs aiment Git ?
+Parce qu'ils peuvent toujours revenir en arrière.
